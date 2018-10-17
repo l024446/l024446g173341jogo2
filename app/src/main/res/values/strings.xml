@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">aula 5</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="to_label">Para: </string>
+    <string name="to_hint">Destinatários</string>
+    <string name="message">Escreva a Mensagem Aqui</string>
+    <string name="send">Enviar</string>
+    <string name="teste">teste</string>
+    <string name="proximo">proximo</string>
+    <string name="qual_a_idade_deste_aluno">Qual a idade deste aluno??</string>
+    <string name="leonardo_martins_medeiros">Leonardo Martins Medeiros</string>
+    <string name="tentativas_tentativas">tentativas: +tentativas</string>
+    <string name="_27">27</string>
+    <string name="_26">26</string>
+    <string name="_25">25</string>
+    <string name="_24">24</string>
+    <string name="_23">23</string>
+    <string name="_22">22</string>
+    <string name="_21">21</string>
+    <string name="_20">20</string>
+    <string name="_19">19</string>
+    <string name="tente">tente</string>
+    <string name="leonardo_martins">Leonardo Martins</string>
+    <string name="l15925_dac_unicamp_br">l15925@dac.unicamp.br</string>
+    <string name="porcentagem_de_erros_e_acertos">Porcentagem de acertos:</string>
+    <string name="media_idade_menor">Media idade menor:</string>
+    <string name="pessoas_que_voc_mais_errou">Pessoas que você mais errou:</string>
+    <string name="media_idade_maior">Media idade maior:</string>
+    <string name="resultadoPadraoJogo">Resultado da Jogada</string>
+    <string-array name="spinner_values">
+        <item>Spinner 1</item>
+        <item>Spinner 2</item>
+        <item>Spinner 3</item>
+        <item>Spinner 4</item>
+    </string-array>
+
+</resources>
